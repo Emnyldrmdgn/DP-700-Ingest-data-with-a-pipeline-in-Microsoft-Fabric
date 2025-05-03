@@ -42,8 +42,7 @@ Add a Notebook activity after the Copy Data step:
 
 Notebook: Load Sales
 
-Base parameter: table_name = "new_sales"![fabriclab4_5_5](https://github.com/user-attachments/assets/45237061-1c35-42bc-9420-68c813bc9389)
-![fabriclab4_5_4](https://github.com/user-attachments/assets/6cd0fdee-ab0e-4767-a4bd-609ab4096d99)
+Base parameter: table_name = "new_sales"
 
 
 ### 6. Verify Results
@@ -52,7 +51,7 @@ Open your lakehouse and refresh the Tables section
 Confirm that a new table named new_sales is created
 
 Preview the ingested and transformed data
-![fabriclab4_5_3](https://github.com/user-attachments/assets/91ba8f06-836b-46d7-868a-98fea61d7f9f)
+
 
 ### 🧹 Clean Up
 When finished, you can delete the workspace:
